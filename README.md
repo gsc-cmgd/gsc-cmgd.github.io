@@ -11,3 +11,5 @@ To help Canadians discover new and more responsible sources of critical minerals
 Manufacturing electrical wires requires copper minerals like tetrahedrite.
 
 ![](https://geo.ca/wp-content/uploads/2024/01/tetrahedrite-1024x576.jpg)
+
+Add new Comment 
