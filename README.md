@@ -18,5 +18,5 @@ Research on Hotspot Analysis (Getis-Ord G*) based on a composite mineral score d
 
 ![](images/hotspots_minerals.png)
 
-#![](https://geo.ca/wp-content/uploads/2024/01/tetrahedrite-1024x576.jpg)
+<!-- ![](https://geo.ca/wp-content/uploads/2024/01/tetrahedrite-1024x576.jpg) -->
 
